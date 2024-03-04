@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<embed src="https://wakatime.com/share/@018db799-265e-4202-937c-66a07f687ea1/a3052ebb-a3b6-4cb1-a7a4-aec9191e6b74.svg"></embed>
+![Stats]("https://wakatime.com/share/@018db799-265e-4202-937c-66a07f687ea1/a3052ebb-a3b6-4cb1-a7a4-aec9191e6b74.svg")
+
 <!--
 **victord54/victord54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
