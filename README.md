@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@018db799-265e-4202-937c-66a07f687ea1/6afe5efd-f891-43f1-b9d4-0241412a4c9f.svg"></embed></figure>
+<!-- <figure><embed src="https://wakatime.com/share/@018db799-265e-4202-937c-66a07f687ea1/6afe5efd-f891-43f1-b9d4-0241412a4c9f.svg"></embed></figure>
 
-![alt text](https://wakatime.com/share/@018db799-265e-4202-937c-66a07f687ea1/6afe5efd-f891-43f1-b9d4-0241412a4c9f.svg)
+![alt text](https://wakatime.com/share/@018db799-265e-4202-937c-66a07f687ea1/6afe5efd-f891-43f1-b9d4-0241412a4c9f.svg) -->
 
 <!--
 **victord54/victord54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
